@@ -4,10 +4,24 @@ title: Research Agenda
 permalink: /research-agenda/
 ---
 
-# The EWCP FRC Research Agenda
+## Executive summary
 This document represents EWCP's vision for the achievable scientific and technological advancements to be made within the youth STEM competition community, and especially the FIRST Robotics Competition (FRC) community, within the next five years.
 
-EWCP’s mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
+This open-source research agenda is primarily developed by members of EWCP, a group of current and former FIRST adult participants, through discussion with peers in the FIRST community and with professional colleagues. EWCP's mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
+
+## Need for this document
+- Decreased emphasis on group science, corresponding with loss of CD whitepapers and photos
+
+## Goals of this document
+- Define the current cutting edge of FRC
+- Steer the scientific goals of the community to advance the cutting edge
+- Improve coordination between teams; reduce wasted effort while encouraging coopertition
+- Help teams understand where their innovative work fits within a larger context
+- Provide basis for statements about the relative priority of certain research
+- Provide support to teams seeking funding for high-priority research
+- Generally promote scientific thought, specifically with regards to information originating from FIRST and FRC suppliers
+
+## The EWCP FRC Research Agenda
 
 ### Controls
 [HMI.01 Gamepad thumbstick axis linearity]({% post_url 2021-03-01-HMI-01 %})
