@@ -10,7 +10,7 @@ This document represents EWCP's vision for the achievable scientific and technol
 EWCP’s mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
 
 ## Controls
-### [HMI.01 Gamepad thumbstick axis linearity]({% post_url 2021-03-02-gamepad-thumbstick-axis-linearity %})
+### [HMI.01 Gamepad thumbstick axis linearity]({% post_url 2021-03-01-gamepad-thumbstick-axis-linearity %})
 
 ### HMI.02
 Develop an isometric joystick (force input device) for FRC use and use a statistical method to compare its performance with commonly-used input devices which use angular deflection as input.
