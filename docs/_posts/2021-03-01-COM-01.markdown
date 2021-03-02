@@ -23,7 +23,7 @@ _Discussion of the relative priority of this research agenda item._
 ## Recommended approach
 _Our recommendations to potential investigators, including:_
 - _Any suggested research methods_
-- _Any forseen pitfalls of this research_
+- _Any foreseen pitfalls of this research_
 - _Any suggested format for publication_
 
 ## Prior art
