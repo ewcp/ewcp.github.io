@@ -9,7 +9,7 @@ categories: mot
 | ------------- | ------------- |
 | **Research agenda item**  | MOT.01  |
 | **Short title**  | Motor performance independent verification  |
-| **Extended title**  | Independently validate the motor performance testing conducted by VEX Robotics and reported at [motors.vex.com]  |
+| **Extended title**  | Independently validate the motor performance testing conducted by VEX Robotics and reported at [motors.vex.com](https://motors.vex.com/)  |
 
 ## Additional requirements
 _Description of any other aspects of the research that are not clear from the title._
