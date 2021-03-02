@@ -11,6 +11,9 @@ categories: com
 | **Short title**  | Optimal RF equipment placement  |
 | **Extended title**  | Determine optimal placement of FRC networking devices including the robot radio and the field access point  |
 
+## Additional requirements
+Description of any other aspects of the research that are not clear from the title.
+
 ## Impact
 Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained.
 
