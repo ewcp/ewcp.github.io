@@ -5,6 +5,10 @@ permalink: /research-agenda/
 ---
 
 # The EWCP FRC Research Agenda
+This document represents EWCP's vision for the achievable scientific and technological advancements to be made within the youth STEM competition community, and especially the FIRST Robotics Competition (FRC) community, within the next five years.
+
+EWCP’s mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
+
 ## Controls
 ### HMI.01
 Characterize the relationship between angular deflection and output signal for the thumbstick axes of frequently-used gamepads.
@@ -25,7 +29,7 @@ Quantify the effects of choice of wheel tread material on the growth rate of odo
 Determine optimal placement of FRC networking equipment including the robot radio and the field access point.
 
 ### COM.02
-Optimal packet sizes and transport protocols to get data reliably and quickly to and from the robot on the field network.  Also optimal TCP Window sizing and other information.  ZeroMQ compared to NetworkTables compared to ROS2 DDS, among others.
+Optimal packet sizes and transport protocols to get data reliably and quickly to and from the robot on the field network. Also optimal TCP Window sizing and other information. ZeroMQ compared to NetworkTables compared to ROS2 DDS, among others.
 
 ## Electromechanical
 ### MOT.01
@@ -76,12 +80,12 @@ Compare gender diversity in the corpus of Dean’s List Finalists & assess accor
 
 ### AWD.DL.12
 Compare submission rates (is it possible to get this data?) by region to determine the % of students nominated in a specific region. 
-Pull out regional vs District data.  
+Pull out regional vs District data.
 
 ### GDC.001
 Computationally predict GDC responses to arbitrary Q&A questions.
 
-## Other areas of interest
+## Other areas of research interest
 - CAD
 - Networking
 - 3d printing
