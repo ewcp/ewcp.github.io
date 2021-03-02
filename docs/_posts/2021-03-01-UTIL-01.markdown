@@ -15,16 +15,42 @@ categories: util
 The self-testing library should feature user-definable pass/fail criteria.
 
 ## Impact
-_Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained._
+Pre-match checklists are commonplace in FRC. However, it's still possible for people to accidentally skip critical pre-match checks, and as a result, leave room for preventable errors before taking the field.
+
+Every match counts towards a team's ranking, and it's vitally important that the team knows the robot is working at full potential before playing the match. An automated testing library for an FRC robot would remove room for human mistakes, allow for more in-depth testing, and give teams more confidence that their robot will work as expected on-field.
 
 ## Priority
-_Discussion of the relative priority of this research agenda item._
+While matches do not resume for several months, this could be a critically important application for teams come 2022.
 
 ## Recommended approach
-_Our recommendations to potential investigators, including:_
-- _Any suggested research methods_
-- _Any foreseen pitfalls of this research_
-- _Any suggested format for publication_
+Software testing is extremely commonplace and there are lots of ways to do it. We recommend utilizing the `testPeriodic` function (and associated Test Mode functions) made available through WPILib.
+
+JUnit is the most common testing framework for Java. You may want to integrate it.
+
+A pseudocode implementation of an elevator may be:
+
+```java
+
+public class Robot extends TimedRobot {
+    // ...
+    Elevator m_elevator = new Elevator();
+
+    public void testPeriodic() {
+        RobotTestSuite rts = new RobotTestSuite();
+
+        rts.when(new ElevatorGoToHeight(100)) // given a command
+            .isRun(() => {
+                rts.expect(m_elevator::getCurrentDraw).toPeakAt(30);
+            })
+            .isCompleted(() => {
+                rts.expect(m_elevator::getHeight).toRoughlyEqual(100);
+            });
+    }
+}
+
+
+```
 
 ## Prior art
-_Discussion of any existing research that has already been done and exists within the community._
+
+[FRC 254 has implemented a check system previously](https://github.com/Team254/FRC-2019-Public/blob/576b25d15cb51aebbc73d0b95b49d762bb96ebe1/src/main/java/com/team254/frc2019/subsystems/Subsystem.java#L30).
