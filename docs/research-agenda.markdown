@@ -12,7 +12,7 @@ This open-source research agenda is primarily developed by members of EWCP, a gr
 ## Need for this document
 Insufficient emphasis on group science:
 - Loss of community built around ChiefDelphi whitepapers and photos, as cd-media was not implemented upon the forum's switch to Discourse
-- Limited scientific value of the FRC Championship Conferences
+- Limited scientific value of the FIRST Championship Conferences
 - Lack of an academic journal specifically serving the youth competitive STEM community
 
 ## Goals of this document
