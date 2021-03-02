@@ -10,7 +10,10 @@ This document represents EWCP's vision for the achievable scientific and technol
 This open-source research agenda is primarily developed by members of EWCP, a group of current and former FIRST adult participants, through discussion with peers in the FIRST community and with professional colleagues. EWCP's mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
 
 ## Need for this document
-- Decreased emphasis on group science, corresponding with loss of CD whitepapers and photos
+Insufficient emphasis on group science:
+- Loss of community built around ChiefDelphi whitepapers and photos, as cd-media was not implemented upon the forum's switch to Discourse
+- Limited scientific value of the FRC Championship Conferences
+- Lack of an academic journal specifically serving the youth competitive STEM community
 
 ## Goals of this document
 - Define the current cutting edge of FRC
