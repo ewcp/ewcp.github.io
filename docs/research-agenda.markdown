@@ -19,7 +19,9 @@ This open-source research agenda is primarily developed by members of EWCP, a gr
 - Help teams understand where their innovative work fits within a larger context
 - Provide basis for statements about the relative priority of certain research
 - Provide support to teams seeking funding for high-priority research
-- Generally promote scientific thought, specifically with regards to information originating from FIRST and FRC suppliers
+- Generally promote scientific thought, especially with regards to information originating from FIRST and FRC suppliers
+
+## How to contribute
 
 ## The EWCP FRC Research Agenda
 
