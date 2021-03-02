@@ -5,18 +5,18 @@ permalink: /research-agenda/
 ---
 
 ## Executive summary
-This document represents EWCP's vision for the achievable scientific and technological advancements to be made within the youth STEM competition community, and especially the FIRST Robotics Competition (FRC) community, within the next five years.
+This document represents EWCP's vision for the achievable scientific and technological advancements that we expect will be made within the FIRST Robotics Competition (FRC) community within the next five years.
 
 This open-source research agenda is primarily developed by members of EWCP, a group of current and former FIRST adult participants, through discussion with peers in the FIRST community and with professional colleagues. EWCP's mission is to develop the sustainability of competitive youth STEM teams and strengthen the diversity, robustness, and impact of the youth STEM education community through strategic advocacy, expert consensus-building, and technical leadership.
 
 ## Need for this document
 EWCP envisions a greater coordination among the FRC community of competitors in our individual efforts to create earned knowledge.
 
-The FIRST Robotics Competition provides a space for students and technical professionals to co-investigate difficult, exciting problems in STEM. The most compelling of these problems are the unsolved ones located at the cutting edge of our field. In exploring that cutting edge, teams have the motivating opportunity to eke out a competitive advantage.  In the best scenario, this competitive advantage felt by an individual team will rapidly evolve into an overall increase in the body of knowledge accessible to all teams.
+The FIRST Robotics Competition provides a space for students and technical professionals to co-investigate difficult, exciting problems in STEM. The most compelling of these problems are the unsolved ones located at the cutting edge of our field. In exploring that cutting edge, teams have the motivating opportunity to eke out a competitive advantage. Ideally, this competitive advantage felt fleetingly by an individual team will rapidly evolve into an overall increase in the body of knowledge permanently accessible to all teams.
 
-We wish to reverse what we feel is currently an insufficient emphasis on group science. In particular, we regret the loss of the small but engaged community that had been built up around the cd-media section of ChiefDelphi prior to the switch to Discourse. While the FIRST Championship Conferences provide a good opportunity for networking and exchange of thought, they are limited in their accessibility and their scientific value. Finally, we lack an academic journal specifically serving the youth competitive STEM community.
+We wish to reverse what we currently feel is an insufficient emphasis on citizen-science in FRC. In particular, we regret the loss of the small but engaged community that had been built up around the cd-media section of [ChiefDelphi](https://www.chiefdelphi.com/) prior to the forum's switch to Discourse. While the FIRST Championship Conferences provide a good opportunity for networking and exchange of thought, the conferences are limited in their accessibility and their scientific value. Finally, we lack an academic journal specifically serving the youth competitive STEM community.
 
-We believe that the EWCP FRC research agenda, and the discussions it will spark, will invigorate our community at a unique time when teams are returning to their workshops and re-opening lines of inquiry that had been dormant during COVID.
+We believe that the EWCP FRC research agenda, and the discussions it will spark, will invigorate our community at a unique time when teams are returning to their workshops and re-opening lines of inquiry that had been dormant during COVID. And of course, we hope to inspire new researchers to explore these and related topics as they begin their exciting journeys in STEM.
 
 ## Goals of this document
 - Define the current cutting edge of FRC
