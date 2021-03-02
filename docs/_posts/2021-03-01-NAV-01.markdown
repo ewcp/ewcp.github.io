@@ -11,8 +11,8 @@ categories: nav
 | **Short title**  | Path following standard test path  |
 | **Extended title**  | Develop a standard test path(s) which can be used by the FRC community to compare the performance of robot path-following strategies  |
 
-## Description
-Develop metrics to quantify the degree to which the test path(s) are followed. The test path(s) should include movements required by typical FRC gameplay.
+## Additional requirements
+The investigators should develop metrics to quantify the degree to which the test path(s) are followed. The test path(s) should include movements required by typical FRC gameplay.
 
 ## Impact
 Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained.
