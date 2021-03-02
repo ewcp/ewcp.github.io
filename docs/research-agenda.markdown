@@ -1,3 +1,3 @@
 layout: page
 title: "EWCP FRC Research Agenda"
-permalink: /researchagenda/
+permalink: /research-agenda/
