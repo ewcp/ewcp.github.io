@@ -14,22 +14,17 @@ EWCP’s mission is to develop the sustainability of competitive youth STEM team
 
 [HMI.02 Isometric joystick initial development]({% post_url 2021-03-01-HMI-02 %})
 
-### UTIL.01
-Develop a library for automating pre-match self-tests of common FRC mechanisms, with user-definable pass/fail criteria.
+[UTIL.01 Robot self-test library]({% post_url 2021-03-01-UTIL-01 %})
 
-### NAV.01
-Develop a standard test path(s) which can be used by the FRC community to compare the performance of robot path-following strategies, along with metrics to quantify the degree to which the test path(s) are followed. The test path(s) should include movements required by typical FRC gameplay.
+[NAV.01 Path following standard test path]({% post_url 2021-03-01-NAV-01 %})
 
-### NAV.02
-Quantify the effects of choice of wheel tread material on the growth rate of odometry error.
+[NAV.02 Wheel tread contribution to odometry error]({% post_url 2021-03-01-NAV-02 %})
 
-### COM.01
-Determine optimal placement of FRC networking equipment including the robot radio and the field access point.
+[COM.01 Optimal RF equipment placement]({% post_url 2021-03-01-COM-01 %})
 
-### COM.02
-Optimal packet sizes and transport protocols to get data reliably and quickly to and from the robot on the field network. Also optimal TCP Window sizing and other information. ZeroMQ compared to NetworkTables compared to ROS2 DDS, among others.
+[COM.02 Packet sizing and transport protocols]({% post_url 2021-03-01-COM-02 %})
 
-## Electromechanical
+### Electromechanical
 ### MOT.01
 Independently validate the motor performance testing conducted by VEX Robotics and reported at motors.vex.com.
 
@@ -45,7 +40,7 @@ Quantify any performance degradation related to exercising FRC circuit breakers.
 ### CAN.01
 For various common techniques of joining CAN bus wires, measure impedance across the connection.
 
-## Pneumatics
+### Pneumatics
 ### PNEU.01
 Build and validate a dynamic simulation of a basic FRC pneumatics system. Quantify the predictive power of the model in response to incremental changes to the system design.
 
@@ -55,14 +50,14 @@ Demonstrate a scheme for optimizing the conversion of stored electrical energy t
 ### PNEU.03
 Measure how the choice of tubing inner diameter impacts the extension/retraction time of pneumatic cylinders in a typical FRC robot.
 
-## Other mechanical
+### Other mechanical
 ### STRC.01
 Quantify the in-plane and out-of-plane strength of common joinery techniques for two rectangular tubes of equal shape, joined perpendicularly.
 
 ### WHLS.01
 Characterize the static and dynamic friction of common COTS FRC wheels against an HDPE surface with orange-peel texture. Identify any relationship to tread temperature, and any nonlinearity with respect to normal force.
 
-## FRC
+### FRC
 ### AWD.WFA.01
 Compare word frequency in the corpus of winning and non-winning Woodie Flowers Award / Finalist Award submissions.
 
@@ -83,7 +78,7 @@ Pull out regional vs District data.
 ### GDC.001
 Computationally predict GDC responses to arbitrary Q&A questions.
 
-## Other areas of research interest
+### Other areas of research interest
 - CAD
 - Networking
 - 3d printing
