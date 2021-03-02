@@ -25,20 +25,15 @@ EWCP’s mission is to develop the sustainability of competitive youth STEM team
 [COM.02 Packet sizing and transport protocols]({% post_url 2021-03-01-COM-02 %})
 
 ### Electromechanical
-### MOT.01
-Independently validate the motor performance testing conducted by VEX Robotics and reported at motors.vex.com.
+[MOT.01 Motor performance independent verification]({% post_url 2021-03-02-MOT-01 %})
 
-### MOT.02
-Quantify the short- and long-term performance effects of using compressed air to cool the internals of common FRC drivetrain motors.
+[MOT.02 Effects of internal air cooling]({% post_url 2021-03-02-MOT-02 %})
 
-### DSTR.01
-Independently develop time-current characteristic curves, spanning the region from 0.1 to 10s, for circuit breakers commonly used in FRC. These circuit breakers should be installed as they would be in a legal FRC robot.
+[DSTR.01 Breaker time-current relationship]({% post_url 2021-03-02-DSTR-01 %})
 
-### DSTR.02
-Quantify any performance degradation related to exercising FRC circuit breakers.
+[DSTR.02 Tripped breaker performance degradation]({% post_url 2021-03-02-DSTR-02 %})
 
-### CAN.01
-For various common techniques of joining CAN bus wires, measure impedance across the connection.
+[CAN.01 CAN wire joinery impedance]({% post_url 2021-03-02-CAN-01 %})
 
 ### Pneumatics
 ### PNEU.01
