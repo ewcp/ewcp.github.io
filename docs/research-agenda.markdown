@@ -36,21 +36,16 @@ EWCP’s mission is to develop the sustainability of competitive youth STEM team
 [CAN.01 CAN wire joinery impedance]({% post_url 2021-03-02-CAN-01 %})
 
 ### Pneumatics
-### PNEU.01
-Build and validate a dynamic simulation of a basic FRC pneumatics system. Quantify the predictive power of the model in response to incremental changes to the system design.
+[PNEU.01 Pneumatics simulator]({% post_url 2021-03-02-PNEU-01 %})
 
-### PNEU.02
-Demonstrate a scheme for optimizing the conversion of stored electrical energy to a stored pneumatic energy during FRC match conditions.
+[PNEU.02 Compression efficiency studies]({% post_url 2021-03-02-PNEU-02 %})
 
-### PNEU.03
-Measure how the choice of tubing inner diameter impacts the extension/retraction time of pneumatic cylinders in a typical FRC robot.
+[PNEU.03 Performance impact of tubing size]({% post_url 2021-03-02-PNEU-03 %})
 
 ### Other mechanical
-### STRC.01
-Quantify the in-plane and out-of-plane strength of common joinery techniques for two rectangular tubes of equal shape, joined perpendicularly.
+[STRC.01 Tube joinery studies]({% post_url 2021-03-02-STRC-01 %})
 
-### WHLS.01
-Characterize the static and dynamic friction of common COTS FRC wheels against an HDPE surface with orange-peel texture. Identify any relationship to tread temperature, and any nonlinearity with respect to normal force.
+[WHLS.01 Traction on orange-peel HDPE]({% post_url 2021-03-02-WHLS-01 %})
 
 ### FRC
 ### AWD.WFA.01
