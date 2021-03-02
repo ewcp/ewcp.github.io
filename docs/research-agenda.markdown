@@ -20,7 +20,7 @@ EWCP’s mission is to develop the sustainability of competitive youth STEM team
 
 [NAV.02 Wheel tread contribution to odometry error]({% post_url 2021-03-01-NAV-02 %})
 
-[COM.01 Optimal RF placement]({% post_url 2021-03-01-COM-01 %})
+[COM.01 Optimal RF equipment placement]({% post_url 2021-03-01-COM-01 %})
 
 [COM.02 Packet sizing and transport protocols]({% post_url 2021-03-01-COM-02 %})
 
