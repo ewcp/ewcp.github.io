@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "HMI.01 Gamepad Thumbstick Axis Linearity"
+title:  "HMI.01 Gamepad thumbstick axis linearity"
 date:   2021-03-01 19:22:07 -0500
 categories: hmi
 ---
 
 | Field  | Value |
 | ------------- | ------------- |
-| Research agenda item  | HMI.01  |
-| Short title  | Gamepad Thumbstick Axis Linearity  |
-| Extended title  | Characterize the relationship between angular deflection and output signal for the thumbstick axes of frequently-used gamepads  |
+| **Research agenda item**  | HMI.01  |
+| **Short title**  | Gamepad thumbstick axis linearity  |
+| **Extended title**  | Characterize the relationship between angular deflection and output signal for the thumbstick axes of frequently-used gamepads  |
 
 ## Impact
-Description of why research along this line of inquiry is needed, and who will benefit from knowledge gained by this research.
+Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained.
 
 ## Priority
 Discussion of the relative priority of this research agenda item.
