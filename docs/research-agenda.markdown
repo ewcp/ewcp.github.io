@@ -26,42 +26,29 @@ This open-source research agenda is primarily developed by members of EWCP, a gr
 ## The EWCP FRC Research Agenda
 
 ### Controls
-[HMI.01 Gamepad thumbstick axis linearity]({% post_url 2021-03-01-HMI-01 %})
-
-[HMI.02 Isometric joystick initial development]({% post_url 2021-03-01-HMI-02 %})
-
-[UTIL.01 Robot self-test library]({% post_url 2021-03-01-UTIL-01 %})
-
-[NAV.01 Path following standard test path]({% post_url 2021-03-01-NAV-01 %})
-
-[NAV.02 Wheel tread contribution to odometry error]({% post_url 2021-03-01-NAV-02 %})
-
-[COM.01 Optimal RF equipment placement]({% post_url 2021-03-01-COM-01 %})
-
-[COM.02 Packet sizing and transport protocols]({% post_url 2021-03-01-COM-02 %})
+- [HMI.01 Gamepad thumbstick axis linearity]({% post_url 2021-03-01-HMI-01 %})
+- [HMI.02 Isometric joystick initial development]({% post_url 2021-03-01-HMI-02 %})
+- [UTIL.01 Robot self-test library]({% post_url 2021-03-01-UTIL-01 %})
+- [NAV.01 Path following standard test path]({% post_url 2021-03-01-NAV-01 %})
+- [NAV.02 Wheel tread contribution to odometry error]({% post_url 2021-03-01-NAV-02 %})
+- [COM.01 Optimal RF equipment placement]({% post_url 2021-03-01-COM-01 %})
+- [COM.02 Packet sizing and transport protocols]({% post_url 2021-03-01-COM-02 %})
 
 ### Electromechanical
-[MOT.01 Motor performance independent verification]({% post_url 2021-03-02-MOT-01 %})
-
-[MOT.02 Effects of internal air cooling]({% post_url 2021-03-02-MOT-02 %})
-
-[DSTR.01 Breaker time-current relationship]({% post_url 2021-03-02-DSTR-01 %})
-
-[DSTR.02 Tripped breaker performance degradation]({% post_url 2021-03-02-DSTR-02 %})
-
-[CAN.01 CAN wire joinery impedance]({% post_url 2021-03-02-CAN-01 %})
+- [MOT.01 Motor performance independent verification]({% post_url 2021-03-02-MOT-01 %})
+- [MOT.02 Effects of internal air cooling]({% post_url 2021-03-02-MOT-02 %})
+- [DSTR.01 Breaker time-current relationship]({% post_url 2021-03-02-DSTR-01 %})
+- [DSTR.02 Tripped breaker performance degradation]({% post_url 2021-03-02-DSTR-02 %})
+- [CAN.01 CAN wire joinery impedance]({% post_url 2021-03-02-CAN-01 %})
 
 ### Pneumatics
-[PNEU.01 Pneumatics simulator]({% post_url 2021-03-02-PNEU-01 %})
-
-[PNEU.02 Compression efficiency studies]({% post_url 2021-03-02-PNEU-02 %})
-
-[PNEU.03 Performance impact of tubing size]({% post_url 2021-03-02-PNEU-03 %})
+- [PNEU.01 Pneumatics simulator]({% post_url 2021-03-02-PNEU-01 %})
+- [PNEU.02 Compression efficiency studies]({% post_url 2021-03-02-PNEU-02 %})
+- [PNEU.03 Performance impact of tubing size]({% post_url 2021-03-02-PNEU-03 %})
 
 ### Other mechanical
-[STRC.01 Tube joinery studies]({% post_url 2021-03-02-STRC-01 %})
-
-[WHLS.01 Traction on orange-peel HDPE]({% post_url 2021-03-02-WHLS-01 %})
+- [STRC.01 Tube joinery studies]({% post_url 2021-03-02-STRC-01 %})
+- [WHLS.01 Traction on orange-peel HDPE]({% post_url 2021-03-02-WHLS-01 %})
 
 ### FRC
 ### AWD.WFA.01
