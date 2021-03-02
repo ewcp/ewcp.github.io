@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "CAN.01 CAN wire joinery impedance"
+date:   2021-03-02 19:22:07 -0500
+categories: can
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | CAN.01  |
+| **Short title**  | CAN wire joinery impedance  |
+| **Extended title**  | For various common techniques of joining CAN bus wires, measure impedance across the connection  |
+
+## Additional requirements
+_Description of any other aspects of the research that are not clear from the title._
+
+## Impact
+_Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained._
+
+## Priority
+_Discussion of the relative priority of this research agenda item._
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_Discussion of any existing research that has already been done and exists within the community._
