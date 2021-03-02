@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "PNEU.02 Compression efficiency studies"
+date:   2021-03-02 19:22:07 -0500
+categories: pneu
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | PNEU.02  |
+| **Short title**  | Compression efficiency studies  |
+| **Extended title**  | Demonstrate a scheme for optimizing the conversion of stored electrical energy to a stored pneumatic energy during FRC match conditions  |
+
+## Additional requirements
+_Description of any other aspects of the research that are not clear from the title._
+
+## Impact
+_Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained._
+
+## Priority
+_Discussion of the relative priority of this research agenda item._
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_Discussion of any existing research that has already been done and exists within the community._
