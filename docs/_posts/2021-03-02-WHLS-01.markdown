@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "WHLS.01 Traction on orange-peel HDPE"
+date:   2021-03-02 19:22:07 -0500
+categories: whls
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | WHLS.01  |
+| **Short title**  | Traction on orange-peel HDPE  |
+| **Extended title**  | Characterize the static and dynamic friction of common COTS FRC wheels against an HDPE surface with orange-peel texture  |
+
+## Additional requirements
+Identify any relationship to tread temperature, and any nonlinearity with respect to normal force.
+
+## Impact
+_Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained._
+
+## Priority
+_Discussion of the relative priority of this research agenda item._
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_Discussion of any existing research that has already been done and exists within the community._
