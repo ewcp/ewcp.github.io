@@ -4,7 +4,7 @@ title: Research Agenda
 permalink: /research-agenda/
 ---
 
-# The EWCP Research Agenda
+# The EWCP FRC Research Agenda
 ## Controls
 ### HMI.01
 Characterize the relationship between angular deflection and output signal for the thumbstick axes of frequently-used gamepads.
