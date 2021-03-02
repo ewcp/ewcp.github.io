@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "PNEU.01 Pneumatics simulator"
+date:   2021-03-02 19:22:07 -0500
+categories: pneu
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | PNEU.01  |
+| **Short title**  | Pneumatics simulator  |
+| **Extended title**  | Build and validate a dynamic simulation of a basic FRC pneumatics system  |
+
+## Additional requirements
+Quantify the predictive power of the model in response to incremental changes to the system design.
+
+## Impact
+_Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained._
+
+## Priority
+_Discussion of the relative priority of this research agenda item._
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_Discussion of any existing research that has already been done and exists within the community._
