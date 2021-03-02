@@ -11,6 +11,9 @@ categories: hmi
 | **Short title**  | Isometric joystick initial development  |
 | **Extended title**  | Develop an isometric joystick (force input device) for FRC use and use a statistical method to compare its performance with commonly-used input devices which use angular deflection as input |
 
+## Additional requirements
+Description of any other aspects of the research that are not clear from the title.
+
 ## Impact
 Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained.
 
