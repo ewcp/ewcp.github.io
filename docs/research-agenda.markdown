@@ -19,13 +19,20 @@ We wish to reverse what we currently feel is an insufficient emphasis on citizen
 We believe that the EWCP FRC research agenda, and the discussions it will spark, will invigorate our community at a unique time when teams are returning to their workshops and re-opening lines of inquiry that had been dormant during COVID. And of course, we hope to inspire new researchers to explore these and related topics as they begin their exciting journeys in STEM.
 
 ## Goals of this document
-- Define the current cutting edge of FRC
-- Steer the scientific goals of the community to advance the cutting edge
-- Improve coordination between teams; reduce wasted effort while encouraging coopertition
+This research agenda is intended to:
+1. Build rough consensus among experts in the community of FRC competitors as to:
+- The current state of the cutting edge of FRC
+- Our scientific goals in advancing the cutting edge
+
+2. Support teams in their work
+- Improve coordination between competitors, which can reduce wasted effort while allowing room for competitive advantage
 - Help teams understand where their innovative work fits within a larger context
-- Provide basis for statements about the relative priority of certain research
-- Provide support to teams seeking funding for high-priority research
-- Generally promote scientific thought, especially with regards to information originating from FIRST and FRC suppliers
+- Provide a basis for statements about the relative priority of certain research
+- Support teams in their efforts to seek funding for research
+
+3. Generally promote scientific thought, especially with regards to:
+- Indigenous knowledge that may no longer represent the best practice
+- Information originating from FIRST and FRC suppliers
 
 ## How to contribute
 
