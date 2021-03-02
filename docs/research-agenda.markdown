@@ -25,6 +25,7 @@ This research agenda is intended to:
 2. Develop an intentional approach to the future advancement of the cutting edge
 
 3. Support teams in their work, especially:
+  - identifying and celebrating teams serving a thought-leadership role
   - improving coordination between competitors, which can reduce wasted effort while allowing room for competitive advantage
   - helping teams understand where their innovation and invention fit within a larger context
   - providing basis for statements about the relative priority of certain research
