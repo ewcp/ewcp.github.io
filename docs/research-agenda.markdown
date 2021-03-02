@@ -21,18 +21,18 @@ We believe that the EWCP FRC research agenda, and the discussions it will spark,
 ## Goals of this document
 This research agenda is intended to:
 1. Build rough consensus among experts in the community of FRC competitors as to:
-- The current state of the cutting edge of FRC
-- Our scientific goals in advancing the cutting edge
+  - the current state of the cutting edge of FRC
+  - our scientific goals in advancing the cutting edge
 
-2. Support teams in their work
-- Improve coordination between competitors, which can reduce wasted effort while allowing room for competitive advantage
-- Help teams understand where their innovative work fits within a larger context
-- Provide a basis for statements about the relative priority of certain research
-- Support teams in their efforts to seek funding for research
+2. Support teams in their work, especially:
+  - improving coordination between competitors, which can reduce wasted effort while allowing room for competitive advantage
+  - helping teams understand where their innovation and invention fit within a larger context
+  - providing basis for statements about the relative priority of certain research
+  - supporting teams in their efforts to seek funding for research
 
 3. Generally promote scientific thought, especially with regards to:
-- Indigenous knowledge that may no longer represent the best practice
-- Information originating from FIRST and FRC suppliers
+  - indigenous knowledge that may no longer represent the best practice
+  - information originating from FIRST and FRC suppliers
 
 ## How to contribute
 
