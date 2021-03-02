@@ -11,6 +11,9 @@ categories: nav
 | **Short title**  | Wheel tread contribution to odometry error  |
 | **Extended title**  | Quantify the effects of choice of wheel tread material on the growth rate of odometry error  |
 
+## Additional requirements
+Description of any other aspects of the research that are not clear from the title.
+
 ## Impact
 Discussion about the purpose of this inquiry: why this research is needed, and who will benefit from any knowledge gained.
 
