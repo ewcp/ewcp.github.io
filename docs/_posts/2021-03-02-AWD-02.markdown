@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "AWD.02 AWD.02 WFA gender, career, and geographic diversity"
+date:   2021-03-02 19:22:07 -0500
+categories: awd
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | AWD.02  |
+| **Short title**  | AWD.02 WFA gender, career, and geographic diversity  |
+| **Extended title**  | Compare various metrics of diversity in the collection of available winning and non-winning Woodie Flowers Award / Finalist Award Submissions  |
+
+## Additional requirements
+Assess gender and career diversity of the available WFA essays. Assess geographic distribution.
+
+## Impact
+Did you know that no female WFAs are career engineers? They are all teachers. Compared to the 50/50 split between male career engineers and male teachers.
+
+## Priority
+_Discussion of the relative priority of this research agenda item._
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_Discussion of any existing research that has already been done and exists within the community._
