@@ -65,25 +65,10 @@ This research agenda is intended to:
 - [WHLS.01 Traction on orange-peel HDPE]({% post_url 2021-03-02-WHLS-01 %})
 
 ### FRC
-### AWD.WFA.01
-Compare word frequency in the corpus of winning and non-winning Woodie Flowers Award / Finalist Award submissions.
-
-### AWD.WFA.02
-Compare gender diversity in the corpus of winning and non-winning Woodie Flowers Award / Finalist Award Submissions and assess geographic equality. 
-
-### AWD.WFA.03
-Compare career diversity in the corpus of winning and non-winning Woodie Flowers Award / Finalist Award Submissions and assess geographic equality. 
-(Did you know - no female WFA’s are career engineers? They are all teachers. Compared to the 50/50 split between male career engineers and male teachers). 
-
-### AWD.DL.11
-Compare gender diversity in the corpus of Dean’s List Finalists & assess according to geographic area for equality. 
-
-### AWD.DL.12
-Compare submission rates (is it possible to get this data?) by region to determine the % of students nominated in a specific region. 
-Pull out regional vs District data.
-
-### GDC.001
-Computationally predict GDC responses to arbitrary Q&A questions.
+- [AWD.01 WFA word frequency analysis]({% post_url 2021-03-02-AWD-01 %})
+- [AWD.02 WFA gender, career, and geographic diversity]({% post_url 2021-03-02-AWD-02 %})
+- [AWD.03 DL gender diversity]({% post_url 2021-03-02-AWD-03 %})
+- [GDC.01 Predict GDC responses]({% post_url 2021-03-02-GDC-01 %})
 
 ### Other areas of research interest
 - CAD
