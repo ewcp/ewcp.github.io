@@ -36,6 +36,7 @@ This research agenda is intended to:
   - information originating from FIRST and FRC suppliers
 
 ## How to contribute
+EWCP welcomes your contributions to [this Github repository](https://github.com/ewcp/ewcp.github.io).
 
 ## The EWCP FRC Research Agenda
 
