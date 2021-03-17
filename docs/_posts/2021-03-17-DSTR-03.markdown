@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DSTR.03 Tripped breaker performance degradation"
+title:  "DSTR.03 Influence of ferrules on PDP resistance"
 date:   2021-03-17 11:22:07 -0800
 categories: dstr
 ---
