@@ -31,4 +31,4 @@ _Our recommendations to potential investigators, including:_
 - _Any suggested format for publication_
 
 ## Prior art
-"Off record" conversations with CTRE & high level RIs indicate bare wire approach is superior
+"Off record" conversations with CTRE & high level RIs indicate bare wire approach is superior. FRC 2767 [has tested](https://www.strykeforce.org/resources/Connector_Tests.pdf) current carrying capability of various connectors popularly used in FRC, including the [WAGO 221 compact splice connector](https://www.chiefdelphi.com/t/the-best-can-bus-connectors/390654/100). YouTuber Silver Cymbal [has compared](https://www.youtube.com/watch?v=B1pmuRsf1co) the WAGO 221 against wire nuts.
