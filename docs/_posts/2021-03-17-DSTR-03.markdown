@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "DSTR.03 Influence of ferrules on PDP resistance"
+date:   2021-03-17 11:22:07 -0800
+categories: dstr
+---
+
+| Field  | Value |
+| ------------- | ------------- |
+| **Research agenda item**  | DSTR.03  |
+| **Short title**  | Influence of ferrules on PDP resistance  |
+| **Extended title**  | Quantify difference in terminal resistance using multiple wire termination styles |
+
+## Additional requirements
+CTRE Power Distribution Panel terminations into WAGO spring clip ("CAGE CLAMP") terminals are described as conducted to bare wire in CTRE docs. However, WAGO documentation allows for use of multiple types of ferrule and ferrule crimps. What is the actual electrical impact to teams of implementing ferrules?
+
+Quantify difference in contact resistance (likely at or below micro-Ohm scale) between use of both medium and high strand-count bare wire, rectangular ferrules, and octagonal ferrules. 
+
+Identify and characterize a metric to describe "ease of use" - perhaps likelyhood of flyaway strands - using the different methods of wire termination. 
+
+## Impact
+_Quantify religious war_
+
+## Priority
+_Quantification of religious war unlikely to actually resolve it_
+
+## Recommended approach
+_Our recommendations to potential investigators, including:_
+- _Any suggested research methods_
+- _Any foreseen pitfalls of this research_
+- _Any suggested format for publication_
+
+## Prior art
+_"Off record" conversations with CTRE & high level RIs indicate bare wire approach is superior_

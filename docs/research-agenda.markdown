@@ -54,6 +54,7 @@ EWCP welcomes your contributions to [this Github repository](https://github.com/
 - [MOT.02 Effects of internal air cooling]({% post_url 2021-03-02-MOT-02 %})
 - [DSTR.01 Breaker time-current relationship]({% post_url 2021-03-02-DSTR-01 %})
 - [DSTR.02 Tripped breaker performance degradation]({% post_url 2021-03-02-DSTR-02 %})
+- [DSTR.03 Influence of ferrules on PDP resistance]({% post_url 2021-03-17-DSTR-03 %})
 - [CAN.01 CAN wire joinery impedance]({% post_url 2021-03-02-CAN-01 %})
 
 ### Pneumatics
