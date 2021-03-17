@@ -16,13 +16,13 @@ CTRE Power Distribution Panel terminations into WAGO spring clip ("CAGE CLAMP") 
 
 Quantify difference in contact resistance (likely at or below micro-Ohm scale) between use of both medium and high strand-count bare wire, rectangular ferrules, and octagonal ferrules. 
 
-Identify and characterize a metric to describe "ease of use" - perhaps likelyhood of flyaway strands - using the different methods of wire termination. 
+Identify and characterize a metric to describe "ease of use" - perhaps likelihood of flyaway strands - using the different methods of wire termination. 
 
 ## Impact
-_Quantify religious war_
+Quantify religious war
 
 ## Priority
-_Quantification of religious war unlikely to actually resolve it_
+Quantification of religious war unlikely to actually resolve it
 
 ## Recommended approach
 _Our recommendations to potential investigators, including:_
@@ -31,4 +31,4 @@ _Our recommendations to potential investigators, including:_
 - _Any suggested format for publication_
 
 ## Prior art
-_"Off record" conversations with CTRE & high level RIs indicate bare wire approach is superior_
+"Off record" conversations with CTRE & high level RIs indicate bare wire approach is superior
