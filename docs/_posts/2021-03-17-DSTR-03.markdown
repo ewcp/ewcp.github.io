@@ -8,7 +8,7 @@ categories: dstr
 | Field  | Value |
 | ------------- | ------------- |
 | **Research agenda item**  | DSTR.03  |
-| **Short title**  | Influence of termination style on power terminal resistance  |
+| **Short title**  | Influence of ferrules on PDP resistance  |
 | **Extended title**  | Quantify difference in terminal resistance using multiple wire termination styles |
 
 ## Additional requirements
