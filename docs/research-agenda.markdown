@@ -64,6 +64,7 @@ EWCP welcomes your contributions to [this Github repository](https://github.com/
 
 ### Other mechanical
 - [STRC.01 Tube joinery studies]({% post_url 2021-03-02-STRC-01 %})
+- [STRC.02 Tube lightweighting strength impacts]({% post_url 2021-03-17-STRC-02 %})
 - [WHLS.01 Traction on orange-peel HDPE]({% post_url 2021-03-02-WHLS-01 %})
 
 ### FRC
